@@ -1,0 +1,1 @@
+I was setting up telephone paging and wanted to use a bit less robotic sounding voice than was included in the Q-SYS Asset Manager Plugin, so I recorded myself.  Perhaps this is useful to someone else.  Feel free to use/modify for any project.
